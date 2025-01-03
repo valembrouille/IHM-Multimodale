@@ -4,9 +4,6 @@ Ce projet permet d'afficher, dessiner, déplacer et supprimer des formes en util
 
 Vous trouverez la vidéo de démonstration ici: https://github.com/Emilioprog/IHM-Multimodale/blob/master/Video_exemple.mp4 
 
-# Chronogrammes
-//insérer les chrono
-
 # Utilisation
 
 ## Installation
@@ -31,3 +28,7 @@ Pour lancer notre moteur multimodal, il suffit de lancer dans l'ordre énoncées
 - prononcer "DELETE + THIS" + cliquer sur la forme à supprimer
 ### Quitter le système
 - prononcer "QUIT"
+
+# Chronogrammes
+
+![image](https://github.com/user-attachments/assets/d335a784-f6aa-4011-9d2c-8f34d613314e)
