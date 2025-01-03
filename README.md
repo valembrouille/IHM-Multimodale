@@ -32,3 +32,8 @@ Pour lancer notre moteur multimodal, il suffit de lancer dans l'ordre énoncées
 # Chronogrammes
 
 ![image](https://github.com/user-attachments/assets/d335a784-f6aa-4011-9d2c-8f34d613314e)
+
+# Machine à états
+
+![image](https://github.com/user-attachments/assets/5823cc18-4f39-46f3-8808-2ec5dd3cb304)
+
