@@ -23,9 +23,11 @@ Pour lancer notre moteur multimodal, il suffit de lancer dans l'ordre énoncées
 
 ## Actions réalisables
 ###  Creer une forme
-- prononcer "DESSINER + FORME [+ COULEUR] + ICI" + cliquer au niveau de l'emplacement désiré
-- prononcer "DESSINER + cette forme [+ COULEUR] + ICI" + dessiner la forme dans ivy + cliquer au niveau de l'emplacement désiré
+- prononcer "CREATE + forme [+ couleur] + THERE" + cliquer au niveau de l'emplacement désiré
+- prononcer "CREATE + THIS [+ couleur] + THERE" + dessiner la forme dans ivy + cliquer au niveau de l'emplacement désiré
 ### Déplacer une forme
-- prononcer "DEPLACE + cette forme" + cliquer sur la forme à déplacer + cliquer sur l'emplacement désiré
+- prononcer "MOVE + THIS" + cliquer sur la forme à déplacer + cliquer sur l'emplacement désiré
 ### Supprimer une forme
-- prononcer "SUPPRIMER + cette forme" + cliquer sur la forme à supprimer
+- prononcer "DELETE + THIS" + cliquer sur la forme à supprimer
+### Quitter le système
+- prononcer "QUIT"
